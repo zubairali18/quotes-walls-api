@@ -1,7 +1,8 @@
 {
   "quotes": [
     {
-      "Success": [
+      "category": "Success",
+      "list": [
         {
           "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
           "author": "Winston Churchill"
@@ -82,8 +83,11 @@
           "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
           "author": "Winston Churchill"
         }
-      ],
-      "Inspirational": [
+      ]
+    },
+    {
+      "category": "Inspirational",
+      "list": [
         {
           "quote": "The only way to do great work is to love what you do.",
           "author": "Steve Jobs"
@@ -164,8 +168,11 @@
           "quote": "The best way to predict your future is to create it.",
           "author": "Abraham Lincoln"
         }
-      ],
-      "Positivity": [
+      ]
+    },
+    {
+      "category": "Positivity",
+      "list": [
         {
           "quote": "The positive thinker sees the invisible, feels the intangible, and achieves the impossible.",
           "author": "Winston Churchill"
@@ -246,8 +253,11 @@
           "quote": "Believe you can and you're halfway there.",
           "author": "Theodore Roosevelt"
         }
-      ],
-      "Perseverance": [
+      ]
+    },
+    {
+      "category": "Perseverance",
+      "list": [
         {
           "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
           "author": "Winston Churchill"
@@ -328,8 +338,11 @@
           "quote": "Perseverance is not a one-time effort; it is a habit, a mindset, and a way of life.",
           "author": "Unknown"
         }
-      ],
-      "Gratitude": [
+      ]
+    },
+    {
+      "category": "Gratitude",
+      "list": [
         {
           "quote": "Gratitude is the fairest blossom that springs from the soul.",
           "author": "Henry Ward Beecher"
@@ -410,8 +423,11 @@
           "quote": "Gratitude is the fairest blossom that springs from the soul.",
           "author": "Henry Ward Beecher"
         }
-      ],
-      "Self Care": [
+      ]
+    },
+    {
+      "category": "Self Care",
+      "list": [
         {
           "quote": "Self-care is not selfish. You cannot serve from an empty vessel.",
           "author": "Eleanor Brownn"
@@ -492,8 +508,11 @@
           "quote": "Taking care of yourself doesn't mean me first, it means me too.",
           "author": "L.R. Knost"
         }
-      ],
-      "Leadership": [
+      ]
+    },
+    {
+      "category": "Leadership",
+      "list": [
         {
           "quote": "The function of leadership is to produce more leaders, not more followers.",
           "author": "Ralph Nader"
@@ -574,8 +593,11 @@
           "quote": "A leader is one who knows the way, goes the way, and shows the way.",
           "author": "John C. Maxwell"
         }
-      ],
-      "Friendship": [
+      ]
+    },
+    {
+      "category": "Friendship",
+      "list": [
         {
           "quote": "Friendship is born at that moment when one person says to another, 'What! You too? I thought I was the only one.'",
           "author": "C.S. Lewis"
@@ -656,8 +678,11 @@
           "quote": "A true friend is someone who is always there for you, through the good times and the bad times.",
           "author": "Walter Winchell"
         }
-      ],
-      "Time": [
+      ]
+    },
+    {
+      "category": "Time",
+      "list": [
         {
           "quote": "The two most powerful warriors are patience and time.",
           "author": "Leo Tolstoy"
@@ -738,8 +763,11 @@
           "quote": "Time slips away like grains of sand never to return again.",
           "author": "Robin Sharma"
         }
-      ],
-      "Alone": [
+      ]
+    },
+    {
+      "category": "Alone",
+      "list": [
         {
           "quote": "It is better to be alone than in bad company.",
           "author": "George Washington"
@@ -820,8 +848,11 @@
           "quote": "It is better to be alone than in bad company.",
           "author": "George Washington"
         }
-      ],
-      "Nature": [
+      ]
+    },
+    {
+      "category": "Nature",
+      "list": [
         {
           "quote": "In every walk with nature one receives far more than he seeks.",
           "author": "John Muir"
@@ -902,8 +933,11 @@
           "quote": "Choose only one master—nature.",
           "author": "Rembrandt"
         }
-      ],
-      "Happiness": [
+      ]
+    },
+    {
+      "category": "Happiness",
+      "list": [
         {
           "quote": "Happiness is not something ready-made. It comes from your own actions.",
           "author": "Dalai Lama"
@@ -984,8 +1018,11 @@
           "quote": "The greater part of our happiness or misery depends upon our dispositions and not upon our circumstances.",
           "author": "Martha Washington"
         }
-      ],
-      "Women": [
+      ]
+    },
+    {
+      "category": "Women",
+      "list": [
         {
           "quote": "A charming woman doesn't follow the crowd; she is herself.",
           "author": "Loretta Young"
@@ -1066,8 +1103,11 @@
           "quote": "A woman is the full circle. Within her is the power to create, nurture, and transform.",
           "author": "Diane Mariechild"
         }
-      ],
-      "Men": [
+      ]
+    },
+    {
+      "category": "Men",
+      "list": [
         {
           "quote": "A real man loves his wife, and places his family as the most important thing in life. Nothing has brought me more peace and contentment in life than simply being a good husband and father.",
           "author": "Frank Abagnale"
@@ -1148,8 +1188,11 @@
           "quote": "The real man smiles in trouble, gathers strength from distress, and grows brave by reflection.",
           "author": "Thomas Paine"
         }
-      ],
-      "Family": [
+      ]
+    },
+    {
+      "category": "Family",
+      "list": [
         {
           "quote": "Family is not an important thing, it's everything.",
           "author": "Michael J. Fox"
